@@ -1,4 +1,4 @@
-# C-Snake Game
+# [WIP] C-Snake Game
 
 Welcome to C-Snake, a simple terminal-based snake game written in C. The goal is to navigate the snake to eat food while avoiding running into the walls or itself.
 
